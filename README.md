@@ -1,4 +1,3 @@
-Criando novo arquivo css
 
 Meu Primeiro Sistema de Classificados no GIT
 
