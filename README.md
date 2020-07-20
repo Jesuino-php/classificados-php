@@ -1,6 +1,6 @@
 Meu Primeiro Sistema de Classificados-PHP
 
-# Classificados - Módulo 15: Projeto - Criando um Classificados - Aula Site de Classificados (10/11)
+# Classificados - Módulo 15: Projeto - Criando um Classificados
 # Aula Site de Classificados (10/11)
 
 O que aconteceu?
